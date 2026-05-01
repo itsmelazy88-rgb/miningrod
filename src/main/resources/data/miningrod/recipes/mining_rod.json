@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "P"
+  ],
+  "key": {
+    "S": { "item": "minecraft:stone" },
+    "P": { "item": "minecraft:stone_pickaxe" }
+  },
+  "result": {
+    "item": "miningrod:mining_rod",
+    "count": 1
+  }
+}

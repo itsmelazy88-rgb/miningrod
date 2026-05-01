@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[dependencies.miningrod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.miningrod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[mods]]
+    modId="miningrod"
+    version="1.0.0"
+    displayName="Mining Rod"
+    description='''
+A powerful mining tool that drills tunnels and collects ores automatically.
+Right-click to drill a 3x3x5 tunnel. Sneak+Right-click to blast a 5x5x3 area.
+'''
